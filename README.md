@@ -1,4 +1,4 @@
-# ICT_FinalProjectDraft
+# Database Description
 
 **Zakir Marajapov;**
 
