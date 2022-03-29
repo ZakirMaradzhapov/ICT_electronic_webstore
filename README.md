@@ -1,7 +1,6 @@
 # ICT_FinalProjectDraft
 
 **Zakir Marajapov;**
-**Darkan Serik**
 
 
 (all the cities, pick-up points, products, its categories and producers are included to their tables beforehand) 
